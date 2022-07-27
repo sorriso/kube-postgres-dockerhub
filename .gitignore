@@ -1,0 +1,7 @@
+.git
+.DS_Store
+*.log
+.env
+!*.gitkeep
+.ipynb_checkpoints
+**/data/**
